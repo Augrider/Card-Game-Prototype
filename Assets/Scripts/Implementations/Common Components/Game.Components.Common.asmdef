@@ -1,0 +1,17 @@
+{
+    "name": "Game.Components.Common",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5d3b9a42efa2584b8ca67637ce38d24",
+        "GUID:d95846ffe423bbf47aece4dd99da4bb5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Game.Components.Table",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5d3b9a42efa2584b8ca67637ce38d24",
+        "GUID:2c2007c40acee3246a8530020a35d483",
+        "GUID:0c17e5ac546a3df4b898e834dcf58a38",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

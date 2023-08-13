@@ -1,0 +1,16 @@
+{
+    "name": "Game.Plugins.ObjectPool",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5d3b9a42efa2584b8ca67637ce38d24"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

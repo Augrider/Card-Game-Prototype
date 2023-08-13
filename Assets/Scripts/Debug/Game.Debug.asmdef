@@ -1,0 +1,21 @@
+{
+    "name": "Game.Debug",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5d3b9a42efa2584b8ca67637ce38d24",
+        "GUID:17dae5113b77370469e1e104d5573507",
+        "GUID:eaca2a2957d76c94aa5a7cea334787c4",
+        "GUID:2d699a6a6b7115c48b67990e6c093c8b",
+        "GUID:b23124a0eb908e945bf2aa2ee7c9c92f",
+        "GUID:5a8265e20efb1e44389e08470c9e95b9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

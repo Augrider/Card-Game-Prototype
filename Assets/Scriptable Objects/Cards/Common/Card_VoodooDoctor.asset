@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e3c92be15ff9f741911bd28e258e174, type: 3}
+  m_Name: Card_VoodooDoctor
+  m_EditorClassIdentifier: 
+  _manaCost: 1
+  _cardName: Voodoo Doctor
+  _cardPortrait: {fileID: 21300000, guid: 7e0b1f4c8463171409f543c0222c78bf, type: 3}
+  _description: 'Battlecry: Restore 2 Health'
+  _unitStats:
+    UnitType: 0
+    UnitAttack: 1
+    UnitMaxHealth: 1
+    Taunt: 0
+    Charge: 0
+  _onPlacedEffects:
+  - {fileID: 11400000, guid: 603233c2397462e4a8701d48e253d589, type: 2}
+  _onTableEffects: []

@@ -1,0 +1,16 @@
+{
+    "name": "Game.Plugins.Coroutines.Default",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ab6c7f12b81a9740a6fda86282b48d0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

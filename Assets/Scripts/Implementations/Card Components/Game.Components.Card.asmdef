@@ -1,0 +1,21 @@
+{
+    "name": "Game.Components.Card",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5d3b9a42efa2584b8ca67637ce38d24",
+        "GUID:17dae5113b77370469e1e104d5573507",
+        "GUID:427521c68b9ad8746a0fdadcea3cf5b7",
+        "GUID:9915505771da1394ca293b1b13a7d647",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d95846ffe423bbf47aece4dd99da4bb5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

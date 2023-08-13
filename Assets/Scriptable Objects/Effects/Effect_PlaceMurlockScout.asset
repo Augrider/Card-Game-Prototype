@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 996bd84851e984b4681a8e0401992936, type: 3}
+  m_Name: Effect_PlaceMurlockScout
+  m_EditorClassIdentifier: Game.Components.Effects:Game.Components.Card:PlaceUnitEffectProvider
+  _unitVisualStats:
+    CardName: Murloc scout
+    CardPortrait: {fileID: 21300000, guid: fb888e8bb4afbea468d1220bf07d6955, type: 3}
+    Description: 
+  _unitStats:
+    UnitType: 1
+    UnitAttack: 1
+    UnitMaxHealth: 1
+    Taunt: 0
+    Charge: 0
+  _onPlacedEffects: []
+  _onTableEffects: []
